@@ -1,1 +1,1 @@
-2026-11-19 18:05:34 font-unify 1119 (local, not pushed; data to 2026-11-18, 11-17 40006 backfill)
+2026-11-20 16:48:50 font-unify 1119 (local, not pushed; data to 2026-11-19, 11-18 40006 +330.370 and 11-19 spend backfill)
