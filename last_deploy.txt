@@ -1,1 +1,1 @@
-2026-11-21 17:27:13 rebuild 1121 (local, not pushed; data 2026-10-17 to 2026-11-20; 11-21 16:35 reimport: 11-18 140008 +210.000, 11-19 40006 +179.520 / 40008 +750.000, 11-20 19,790.350)
+2026-11-23 18:05:00 rebuild 1123 (local, not pushed; data 2026-10-17 to 2026-11-22; 11-23 17:54 reimport: 11-22 spend 14,738.583, 66 channels / 572 first deposits still pending)
