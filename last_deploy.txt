@@ -1,1 +1,1 @@
-2026-11-23 20:57:20 rebuild 1123night (local, not pushed; data 2026-10-17 to 2026-11-22; 11-23 20:42 reimport: 11-21 spend 16,081.271, 73 channels / 586 first deposits still pending; 11-22 spend unchanged 14,738.583, T+1 columns updated)
+2026-11-24 20:28:00 rebuild 1124pm (local, not pushed; data 2026-10-17 to 2026-11-23; 11-23 spend booked 21,943.295, 65 channels / 426 first deposits still pending excluding channel 0)
